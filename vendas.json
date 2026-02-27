@@ -1,0 +1,27 @@
+[
+    {
+        "id_venda": "0f4ec79a-5d21-495d-866b-84d5ebfb32ca",
+        "data_hora": "2026-02-23T20:05:26.791216",
+        "forma_pagamento": "Boleto",
+        "status": "Concluída",
+        "cod_vendedor": 7338,
+        "nome_comprador": "joao juaozinho juaozeiro",
+        "produtos_vendidos": [
+            {
+                "codigo": 245,
+                "nome": "Apple Watch Series 9",
+                "quantidade": 1,
+                "preco_unitario": 3199.0,
+                "subtotal": 3199.0
+            },
+            {
+                "codigo": 245,
+                "nome": "Apple Watch Series 9",
+                "quantidade": 1,
+                "preco_unitario": 3199.0,
+                "subtotal": 3199.0
+            }
+        ],
+        "valor_total": 6398.0
+    }
+]
