@@ -161,19 +161,6 @@ Ao executar o sistema, você verá o seguinte menu:
 - ✅ Confirmação para ações irreversíveis
 - ✅ Mensagens de erro claras e informativas
 
-## 🚧 Melhorias Futuras (Roadmap)
-
-- [ ] Interface gráfica (Tkinter/PyQt)
-- [ ] Migração para banco de dados SQL (SQLite/PostgreSQL)
-- [ ] Geração de relatórios em PDF
-- [ ] Sistema de autenticação de vendedores
-- [ ] Dashboard com gráficos de vendas
-- [ ] Importação/Exportação em CSV/Excel
-- [ ] Sistema de backup automático
-- [ ] Notificações por email para estoque baixo
-- [ ] API REST para integração com outros sistemas
-- [ ] App mobile (Flutter/React Native)
-
 ## 🤝 Contribuindo
 
 Contribuições são bem-vindas! Sinta-se à vontade para:
@@ -192,8 +179,8 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 **João Gabriel Silva Pinto**
 
-- GitHub: [@seu-usuario](https://github.com/jaosilvaPy)
-- LinkedIn: [Seu Nome](www.linkedin.com/in/joão-silva-a2b9323b0)
+- GitHub: [@jaosilvaPy](https://github.com/jaosilvaPy)
+- LinkedIn: [João Gabriel](www.linkedin.com/in/joão-silva-a2b9323b0)
 - Email: jaodevsilva@gmail.com
 
 ## 🙏 Agradecimentos
