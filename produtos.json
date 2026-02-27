@@ -1,0 +1,482 @@
+[
+    {
+        "cod_produto": 201,
+        "nome": "Dell XPS 13",
+        "categoria": "Notebooks",
+        "preco_custo": 5200.0,
+        "preco": 6999.9,
+        "estoque_minimo": 5,
+        "estoque": 11,
+        "fornecedor": "Dell"
+    },
+    {
+        "cod_produto": 202,
+        "nome": "Apple MacBook Air M2",
+        "categoria": "Notebooks",
+        "preco_custo": 6800.0,
+        "preco": 8999.0,
+        "estoque_minimo": 3,
+        "estoque": 10,
+        "fornecedor": "Apple"
+    },
+    {
+        "cod_produto": 203,
+        "nome": "Acer Predator Helios 300",
+        "categoria": "Notebooks",
+        "preco_custo": 5500.0,
+        "preco": 7499.0,
+        "estoque_minimo": 4,
+        "estoque": 15,
+        "fornecedor": "Acer"
+    },
+    {
+        "cod_produto": 204,
+        "nome": "Acer Aspire 5",
+        "categoria": "Notebooks",
+        "preco_custo": 2800.0,
+        "preco": 3999.0,
+        "estoque_minimo": 6,
+        "estoque": 25,
+        "fornecedor": "Acer"
+    },
+    {
+        "cod_produto": 205,
+        "nome": "Samsung Galaxy S24 Ultra",
+        "categoria": "Celulares",
+        "preco_custo": 4200.0,
+        "preco": 5499.0,
+        "estoque_minimo": 10,
+        "estoque": 50,
+        "fornecedor": "Samsung"
+    },
+    {
+        "cod_produto": 206,
+        "nome": "iPhone 15 Pro Max",
+        "categoria": "Celulares",
+        "preco_custo": 6700.0,
+        "preco": 9499.0,
+        "estoque_minimo": 8,
+        "estoque": 25,
+        "fornecedor": "Apple"
+    },
+    {
+        "cod_produto": 207,
+        "nome": "Google Pixel 8 Pro",
+        "categoria": "Celulares",
+        "preco_custo": 4100.0,
+        "preco": 5999.0,
+        "estoque_minimo": 5,
+        "estoque": 18,
+        "fornecedor": "Google"
+    },
+    {
+        "cod_produto": 208,
+        "nome": "Xiaomi 13 Pro",
+        "categoria": "Celulares",
+        "preco_custo": 2800.0,
+        "preco": 4199.0,
+        "estoque_minimo": 12,
+        "estoque": 40,
+        "fornecedor": "Xiaomi"
+    },
+    {
+        "cod_produto": 209,
+        "nome": "Logitech MX Master 3S",
+        "categoria": "Periféricos",
+        "preco_custo": 300.0,
+        "preco": 499.9,
+        "estoque_minimo": 15,
+        "estoque": 60,
+        "fornecedor": "Logitech"
+    },
+    {
+        "cod_produto": 210,
+        "nome": "Razer BlackWidow V3 Pro",
+        "categoria": "Periféricos",
+        "preco_custo": 750.0,
+        "preco": 1199.0,
+        "estoque_minimo": 5,
+        "estoque": 18,
+        "fornecedor": "Razer"
+    },
+    {
+        "cod_produto": 211,
+        "nome": "HyperX QuadCast S",
+        "categoria": "Periféricos",
+        "preco_custo": 650.0,
+        "preco": 999.0,
+        "estoque_minimo": 8,
+        "estoque": 17,
+        "fornecedor": "HyperX"
+    },
+    {
+        "cod_produto": 212,
+        "nome": "Logitech Brio 4K Webcam",
+        "categoria": "Periféricos",
+        "preco_custo": 650.0,
+        "preco": 1099.0,
+        "estoque_minimo": 6,
+        "estoque": 15,
+        "fornecedor": "Logitech"
+    },
+    {
+        "cod_produto": 213,
+        "nome": "Microsoft Surface Pro 9",
+        "categoria": "Tablets",
+        "preco_custo": 5200.0,
+        "preco": 7299.0,
+        "estoque_minimo": 4,
+        "estoque": 12,
+        "fornecedor": "Microsoft"
+    },
+    {
+        "cod_produto": 214,
+        "nome": "iPad Pro 12.9 (6ª geração)",
+        "categoria": "Tablets",
+        "preco_custo": 6500.0,
+        "preco": 8999.0,
+        "estoque_minimo": 6,
+        "estoque": 15,
+        "fornecedor": "Apple"
+    },
+    {
+        "cod_produto": 215,
+        "nome": "Samsung Galaxy Tab S9 Ultra",
+        "categoria": "Tablets",
+        "preco_custo": 4500.0,
+        "preco": 6499.0,
+        "estoque_minimo": 5,
+        "estoque": 20,
+        "fornecedor": "Samsung"
+    },
+    {
+        "cod_produto": 216,
+        "nome": "Lenovo Tab P12 Pro",
+        "categoria": "Tablets",
+        "preco_custo": 3200.0,
+        "preco": 4599.0,
+        "estoque_minimo": 6,
+        "estoque": 18,
+        "fornecedor": "Lenovo"
+    },
+    {
+        "cod_produto": 217,
+        "nome": "JBL Charge 5",
+        "categoria": "Caixas de Som",
+        "preco_custo": 700.0,
+        "preco": 1199.0,
+        "estoque_minimo": 12,
+        "estoque": 40,
+        "fornecedor": "JBL"
+    },
+    {
+        "cod_produto": 218,
+        "nome": "Sony SRS-XG300",
+        "categoria": "Caixas de Som",
+        "preco_custo": 950.0,
+        "preco": 1599.0,
+        "estoque_minimo": 10,
+        "estoque": 30,
+        "fornecedor": "Sony"
+    },
+    {
+        "cod_produto": 219,
+        "nome": "Bose SoundLink Flex",
+        "categoria": "Caixas de Som",
+        "preco_custo": 1200.0,
+        "preco": 1899.0,
+        "estoque_minimo": 5,
+        "estoque": 15,
+        "fornecedor": "Bose"
+    },
+    {
+        "cod_produto": 220,
+        "nome": "LG XBOOM Go PL7",
+        "categoria": "Caixas de Som",
+        "preco_custo": 750.0,
+        "preco": 1299.0,
+        "estoque_minimo": 8,
+        "estoque": 19,
+        "fornecedor": "LG"
+    },
+    {
+        "cod_produto": 221,
+        "nome": "LG OLED C3 55\" 4K",
+        "categoria": "Televisões",
+        "preco_custo": 4200.0,
+        "preco": 6399.0,
+        "estoque_minimo": 2,
+        "estoque": 3,
+        "fornecedor": "LG"
+    },
+    {
+        "cod_produto": 222,
+        "nome": "Samsung Neo QLED 65\" 8K",
+        "categoria": "Televisões",
+        "preco_custo": 8500.0,
+        "preco": 11999.0,
+        "estoque_minimo": 1,
+        "estoque": 5,
+        "fornecedor": "Samsung"
+    },
+    {
+        "cod_produto": 223,
+        "nome": "Sony Bravia XR A80K 65\"",
+        "categoria": "Televisões",
+        "preco_custo": 7600.0,
+        "preco": 10999.0,
+        "estoque_minimo": 2,
+        "estoque": 3,
+        "fornecedor": "Sony"
+    },
+    {
+        "cod_produto": 224,
+        "nome": "Philips Ambilight 55\" OLED",
+        "categoria": "Televisões",
+        "preco_custo": 5900.0,
+        "preco": 8499.0,
+        "estoque_minimo": 2,
+        "estoque": 4,
+        "fornecedor": "Philips"
+    },
+    {
+        "cod_produto": 225,
+        "nome": "Sony WH-1000XM5",
+        "categoria": "Acessórios de Áudio",
+        "preco_custo": 1600.0,
+        "preco": 2499.0,
+        "estoque_minimo": 6,
+        "estoque": 25,
+        "fornecedor": "Sony"
+    },
+    {
+        "cod_produto": 226,
+        "nome": "Apple AirPods Pro (2ª geração)",
+        "categoria": "Acessórios de Áudio",
+        "preco_custo": 1100.0,
+        "preco": 1899.0,
+        "estoque_minimo": 8,
+        "estoque": 40,
+        "fornecedor": "Apple"
+    },
+    {
+        "cod_produto": 227,
+        "nome": "Samsung Galaxy Buds2 Pro",
+        "categoria": "Acessórios de Áudio",
+        "preco_custo": 850.0,
+        "preco": 1399.0,
+        "estoque_minimo": 10,
+        "estoque": 35,
+        "fornecedor": "Samsung"
+    },
+    {
+        "cod_produto": 228,
+        "nome": "Bose QuietComfort 45",
+        "categoria": "Acessórios de Áudio",
+        "preco_custo": 1400.0,
+        "preco": 2199.0,
+        "estoque_minimo": 5,
+        "estoque": 15,
+        "fornecedor": "Bose"
+    },
+    {
+        "cod_produto": 229,
+        "nome": "Dell UltraSharp U3223QE 32\"",
+        "categoria": "Monitores",
+        "preco_custo": 4200.0,
+        "preco": 6299.0,
+        "estoque_minimo": 3,
+        "estoque": 10,
+        "fornecedor": "Dell"
+    },
+    {
+        "cod_produto": 230,
+        "nome": "LG UltraGear 27GN950 27\" 4K",
+        "categoria": "Monitores",
+        "preco_custo": 2500.0,
+        "preco": 3999.0,
+        "estoque_minimo": 6,
+        "estoque": 20,
+        "fornecedor": "LG"
+    },
+    {
+        "cod_produto": 231,
+        "nome": "Acer Nitro XV282K 28\" 4K",
+        "categoria": "Monitores",
+        "preco_custo": 2100.0,
+        "preco": 3399.0,
+        "estoque_minimo": 6,
+        "estoque": 18,
+        "fornecedor": "Acer"
+    },
+    {
+        "cod_produto": 232,
+        "nome": "Samsung Odyssey G9 49\"",
+        "categoria": "Monitores",
+        "preco_custo": 5400.0,
+        "preco": 7999.0,
+        "estoque_minimo": 2,
+        "estoque": 8,
+        "fornecedor": "Samsung"
+    },
+    {
+        "cod_produto": 233,
+        "nome": "Seagate BarraCuda 2TB HDD",
+        "categoria": "Armazenamento",
+        "preco_custo": 320.0,
+        "preco": 549.0,
+        "estoque_minimo": 20,
+        "estoque": 65,
+        "fornecedor": "Seagate"
+    },
+    {
+        "cod_produto": 234,
+        "nome": "Samsung 980 PRO 1TB SSD NVMe",
+        "categoria": "Armazenamento",
+        "preco_custo": 650.0,
+        "preco": 1099.0,
+        "estoque_minimo": 15,
+        "estoque": 57,
+        "fornecedor": "Samsung"
+    },
+    {
+        "cod_produto": 235,
+        "nome": "Western Digital Black SN850X 2TB",
+        "categoria": "Armazenamento",
+        "preco_custo": 1200.0,
+        "preco": 1899.0,
+        "estoque_minimo": 10,
+        "estoque": 40,
+        "fornecedor": "Western Digital"
+    },
+    {
+        "cod_produto": 236,
+        "nome": "Kingston Fury Renegade 2TB SSD",
+        "categoria": "Armazenamento",
+        "preco_custo": 1100.0,
+        "preco": 1799.0,
+        "estoque_minimo": 12,
+        "estoque": 45,
+        "fornecedor": "Kingston"
+    },
+    {
+        "cod_produto": 237,
+        "nome": "HP LaserJet Pro M404dn",
+        "categoria": "Impressoras",
+        "preco_custo": 1200.0,
+        "preco": 1999.0,
+        "estoque_minimo": 4,
+        "estoque": 12,
+        "fornecedor": "HP"
+    },
+    {
+        "cod_produto": 238,
+        "nome": "Epson EcoTank L3250",
+        "categoria": "Impressoras",
+        "preco_custo": 900.0,
+        "preco": 1499.0,
+        "estoque_minimo": 6,
+        "estoque": 20,
+        "fornecedor": "Epson"
+    },
+    {
+        "cod_produto": 239,
+        "nome": "Canon Pixma G6020",
+        "categoria": "Impressoras",
+        "preco_custo": 1000.0,
+        "preco": 1699.0,
+        "estoque_minimo": 5,
+        "estoque": 18,
+        "fornecedor": "Canon"
+    },
+    {
+        "cod_produto": 240,
+        "nome": "Brother HL-L2395DW",
+        "categoria": "Impressoras",
+        "preco_custo": 950.0,
+        "preco": 1599.0,
+        "estoque_minimo": 4,
+        "estoque": 15,
+        "fornecedor": "Brother"
+    },
+    {
+        "cod_produto": 241,
+        "nome": "Sony PlayStation 5",
+        "categoria": "Consoles",
+        "preco_custo": 3300.0,
+        "preco": 4499.0,
+        "estoque_minimo": 5,
+        "estoque": 25,
+        "fornecedor": "Sony"
+    },
+    {
+        "cod_produto": 242,
+        "nome": "Microsoft Xbox Series X",
+        "categoria": "Consoles",
+        "preco_custo": 3100.0,
+        "preco": 4299.0,
+        "estoque_minimo": 5,
+        "estoque": 20,
+        "fornecedor": "Microsoft"
+    },
+    {
+        "cod_produto": 243,
+        "nome": "Nintendo Switch OLED",
+        "categoria": "Consoles",
+        "preco_custo": 1800.0,
+        "preco": 2899.0,
+        "estoque_minimo": 10,
+        "estoque": 40,
+        "fornecedor": "Nintendo"
+    },
+    {
+        "cod_produto": 244,
+        "nome": "Asus ROG Ally",
+        "categoria": "Consoles",
+        "preco_custo": 3200.0,
+        "preco": 4699.0,
+        "estoque_minimo": 4,
+        "estoque": 12,
+        "fornecedor": "Asus"
+    },
+    {
+        "cod_produto": 245,
+        "nome": "Apple Watch Series 9",
+        "categoria": "Vestíveis",
+        "preco_custo": 1800.0,
+        "preco": 3199.0,
+        "estoque_minimo": 10,
+        "estoque": 23,
+        "fornecedor": "Apple"
+    },
+    {
+        "cod_produto": 246,
+        "nome": "Samsung Galaxy Watch 6",
+        "categoria": "Vestíveis",
+        "preco_custo": 1200.0,
+        "preco": 2199.0,
+        "estoque_minimo": 8,
+        "estoque": 30,
+        "fornecedor": "Samsung"
+    },
+    {
+        "cod_produto": 247,
+        "nome": "Samsung Galaxy Watch 7",
+        "categoria": "Vestíveis",
+        "preco_custo": 1200.0,
+        "preco": 2199.0,
+        "estoque_minimo": 10,
+        "estoque": 30,
+        "fornecedor": "Samsung"
+    },
+    {
+        "cod_produto": 248,
+        "nome": "Sony PlayStation 4",
+        "categoria": "Consoles",
+        "preco_custo": 900.0,
+        "preco": 1700.0,
+        "estoque_minimo": 5,
+        "estoque": 12,
+        "fornecedor": "Sony"
+    }
+]
